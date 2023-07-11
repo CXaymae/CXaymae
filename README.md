@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**CXaymae/CXaymae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm Chaimae, 2nd year Software Engineering Student, Blogger and UX/UI Designer. 
 
 - 🔭 I’m currently working on my internship project both in Front-End & Back-End
 - 🌱 I’m currently learning Full Stack Development
