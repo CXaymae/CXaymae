@@ -1,6 +1,6 @@
 # Hi there, I'm Chaimae! 👋
 
-2nd year Software Engineering Student, Blogger and UX/UI Designer. For me, learning never stops, every day I'm on my way to level up my skills. Today, I'm BEGINNER & Tommorow I'm TECH LEADER.
+2nd year Software Engineering Student, Blogger and UX/UI Designer. For me, learning never stops, every day I'm on my way to level up my skills. Today, I'm BEGINNER & Tomorrow I'm TECH LEADER.
 
 - 🔭 I’m currently working on my internship projects both in Front-End & Back-End
 - 🌱 I’m currently learning Full Stack Development
