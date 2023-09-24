@@ -1,6 +1,6 @@
 # Hi there, I'm Chaimae! 👋
 
-2nd year Software Engineering Student, Blogger and UX/UI Designer. For me, learning never stops, every day I'm on my way to level up my skills. Today, I'm BEGINNER & Tomorrow I'm TECH LEADER.
+2nd year Software Engineering Student, Blogger and UX/UI Designer. For me, learning never stops, every day I'm on my way to level up my skills.
 
 - 🔭 I’m currently working on my internship projects both in Front-End & Back-End
 - 🌱 I’m currently learning Full Stack Development
@@ -33,8 +33,6 @@
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
