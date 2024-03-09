@@ -3,7 +3,7 @@
 2nd year Software Engineering Student, Blogger and UX/UI Designer. For me, learning never stops, every day I'm on my way to level up my skills.
 
 - 🔭 I’m currently working on my internship projects both in Front-End & Back-End
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I’m currently learning Full Stack Development, DevOps, Cloud
 
 <img align="left" wideth="47%" src="https://github-readme-stats.vercel.app/api?username=CXaymae&show_icons=true&theme=radical"/>
 <img align="left" wideth="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CXaymae&layout=compact"/>
