@@ -4,7 +4,7 @@ Final year Software Engineering Student, Technical writer and UX/UI Designer. Fo
 
 🌱 I’m currently learning Full Stack Development, DevOps, Cloud
 
-<img align="left" wideth="47%" src="https://github-readme-stats.vercel.app/api?username=CXaymae&show_icons=true&theme=radical"/>
+
 <img align="left" wideth="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CXaymae&layout=compact"/>
 
 
