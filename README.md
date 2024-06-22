@@ -7,8 +7,7 @@ Final year Software Engineering Student, Technical writer and UX/UI Designer. Fo
 <img align="left" wideth="47%" src="https://github-readme-stats.vercel.app/api?username=CXaymae&show_icons=true&theme=radical"/>
 <img align="left" wideth="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CXaymae&layout=compact"/>
 
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+
 
 
 
