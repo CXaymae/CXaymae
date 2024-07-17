@@ -1,4 +1,4 @@
-# Hi there, I'm Chaimae! 👋
+# Hi there! 👋
 
 Final year Software Engineering Student, Technical writer and UX/UI Designer. For me, learning never stops, every day I'm on my way to level up my skills.
 
